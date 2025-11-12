@@ -1,0 +1,6 @@
+@WebApi_LLM_kiss_HostAddress = http://localhost:5279
+
+GET {{WebApi_LLM_kiss_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
